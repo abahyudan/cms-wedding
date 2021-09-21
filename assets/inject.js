@@ -6,7 +6,17 @@ let dbAds=[
       ".content"
     ],
     "position":"out-top", //out-top, out-bottom, in-top, in-bottom
-    "data" :`
+    "data" :`<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- Horizontal 1 -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7827510955569116"
+     data-ad-slot="9070430766"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
     `,
     "style":`
       width: 90%;
